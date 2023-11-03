@@ -1,0 +1,11 @@
+Bill of Material for 
+On 2023-04-03 at 23:05:21
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 103                 WH06-2           1    PR1                          电位器                  
+ Button              BUTTON_6x6DIP    1    S1                           按键                   
+ LCD1602             LCD1602          1    LCD1                         LCD1602液晶            
+ STM32_CORE          STM32_CORE       1    U1                           STM32核心板             
+ TCS3472             TCS3472_MODE     1    U2                           TCS3472              
+ WIFI转接板MODE         蓝牙MODE竖放         1    U3                           蓝牙模块                 
